@@ -1,0 +1,11 @@
+title: Example Website
+author: Diego Lopez
+description: >- 
+        An example website
+baseurl: "" 
+url: "https://symmetries.github.io/jekyll-demo/" 
+github_username: Symmetries
+twitter_username: FullOfSymmetry
+
+markdown: kramdown
+theme: minima
